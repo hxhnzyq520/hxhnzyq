@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789517961287,
+  "timestamp": 1789517965023,
   "appVersion": "6.9.76 (2026.09.13)",
   "tables": [
     "characters",
@@ -136,7 +136,10 @@
     "couplesData": true,
     "quickReplies": true,
     "goingOutState": true,
-    "goingOutAreas": true
+    "goingOutAreas": true,
+    "customGames": true,
+    "customGameSaves": true,
+    "customWidgetTemplates": true
   },
   "inProgress": true
 }
