@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789518023352,
+  "timestamp": 1789518033077,
   "appVersion": "6.9.76 (2026.09.13)",
   "tables": [
     "characters",
@@ -136,17 +136,7 @@
     "couplesData": true,
     "quickReplies": true,
     "goingOutState": true,
-    "goingOutAreas": true,
-    "customGames": true,
-    "customGameSaves": true,
-    "customWidgetTemplates": true,
-    "customWidgetState": true,
-    "wallpapers": true,
-    "lifeRpgData": true,
-    "whiteDogData": true,
-    "isekaiSaves": true,
-    "isekaiPresets": true,
-    "pomodoroData": true
+    "goingOutAreas": true
   },
   "inProgress": true
 }
